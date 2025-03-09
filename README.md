@@ -6,3 +6,4 @@
 ## References
 
 - [Markdown Guide](https://www.markdownguide.org/)
+- [My Mermaid Repo](https://github.com/NelsonBN/doc-mermaid)
