@@ -1,4 +1,4 @@
-# Demo - Markdown
+# Documentation - Markdown
 
 - [Tables](./tables.md)
 
