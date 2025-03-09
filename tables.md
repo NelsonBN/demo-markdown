@@ -1,4 +1,4 @@
-# Demo - Markdown - Tables
+# Documentation - Markdown - Tables
 [[Home]](/README.md)
 
 
